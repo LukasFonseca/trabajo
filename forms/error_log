@@ -1,0 +1,203 @@
+[16-Nov-2021 17:58:05 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home/comunidauto/public_html/forms/newsletter.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/comunidauto/public_html/forms/newsletter.php on line 59
+[16-Nov-2021 18:30:52 UTC] PHP Parse error:  syntax error, unexpected '$mensaje_body' (T_VARIABLE) in /home/comunidauto/public_html/forms/contact.php on line 26
+[16-Nov-2021 18:50:15 UTC] PHP Parse error:  syntax error, unexpected 'mail' (T_STRING) in /home/comunidauto/public_html/forms/contact.php on line 22
+[16-Nov-2021 18:50:24 UTC] PHP Parse error:  syntax error, unexpected 'mail' (T_STRING) in /home/comunidauto/public_html/forms/contact.php on line 22
+[16-Nov-2021 18:50:36 UTC] PHP Parse error:  syntax error, unexpected 'mail' (T_STRING) in /home/comunidauto/public_html/forms/contact.php on line 22
+[18-Nov-2021 13:33:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function alert() in /home/comunidauto/public_html/forms/notify.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/comunidauto/public_html/forms/notify.php on line 60
+[18-Nov-2021 13:33:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function alert() in /home/comunidauto/public_html/forms/notify.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/comunidauto/public_html/forms/notify.php on line 60
+[18-Nov-2021 13:36:09 UTC] PHP Warning:  include_once(vista/vista.php): failed to open stream: No such file or directory in /home/comunidauto/public_html/forms/notify.php on line 7
+[18-Nov-2021 13:36:09 UTC] PHP Warning:  include_once(): Failed opening 'vista/vista.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/comunidauto/public_html/forms/notify.php on line 7
+[18-Nov-2021 13:36:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Vista' not found in /home/comunidauto/public_html/forms/notify.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/comunidauto/public_html/forms/notify.php on line 8
+[18-Nov-2021 13:36:10 UTC] PHP Warning:  include_once(vista/vista.php): failed to open stream: No such file or directory in /home/comunidauto/public_html/forms/notify.php on line 7
+[18-Nov-2021 13:36:10 UTC] PHP Warning:  include_once(): Failed opening 'vista/vista.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/comunidauto/public_html/forms/notify.php on line 7
+[18-Nov-2021 13:36:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Vista' not found in /home/comunidauto/public_html/forms/notify.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/comunidauto/public_html/forms/notify.php on line 8
+[18-Nov-2021 13:36:10 UTC] PHP Warning:  include_once(vista/vista.php): failed to open stream: No such file or directory in /home/comunidauto/public_html/forms/notify.php on line 7
+[18-Nov-2021 13:36:10 UTC] PHP Warning:  include_once(): Failed opening 'vista/vista.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/comunidauto/public_html/forms/notify.php on line 7
+[18-Nov-2021 13:36:10 UTC] PHP Fatal error:  Uncaught Error: Class 'Vista' not found in /home/comunidauto/public_html/forms/notify.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/comunidauto/public_html/forms/notify.php on line 8
+[18-Nov-2021 13:36:11 UTC] PHP Warning:  include_once(vista/vista.php): failed to open stream: No such file or directory in /home/comunidauto/public_html/forms/notify.php on line 7
+[18-Nov-2021 13:36:11 UTC] PHP Warning:  include_once(): Failed opening 'vista/vista.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/comunidauto/public_html/forms/notify.php on line 7
+[18-Nov-2021 13:36:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Vista' not found in /home/comunidauto/public_html/forms/notify.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/comunidauto/public_html/forms/notify.php on line 8
+[18-Nov-2021 13:36:11 UTC] PHP Warning:  include_once(vista/vista.php): failed to open stream: No such file or directory in /home/comunidauto/public_html/forms/notify.php on line 7
+[18-Nov-2021 13:36:11 UTC] PHP Warning:  include_once(): Failed opening 'vista/vista.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/comunidauto/public_html/forms/notify.php on line 7
+[18-Nov-2021 13:36:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Vista' not found in /home/comunidauto/public_html/forms/notify.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/comunidauto/public_html/forms/notify.php on line 8
+[18-Nov-2021 13:36:11 UTC] PHP Warning:  include_once(vista/vista.php): failed to open stream: No such file or directory in /home/comunidauto/public_html/forms/notify.php on line 7
+[18-Nov-2021 13:36:11 UTC] PHP Warning:  include_once(): Failed opening 'vista/vista.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/comunidauto/public_html/forms/notify.php on line 7
+[18-Nov-2021 13:36:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Vista' not found in /home/comunidauto/public_html/forms/notify.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/comunidauto/public_html/forms/notify.php on line 8
+[18-Nov-2021 13:36:11 UTC] PHP Warning:  include_once(vista/vista.php): failed to open stream: No such file or directory in /home/comunidauto/public_html/forms/notify.php on line 7
+[18-Nov-2021 13:36:11 UTC] PHP Warning:  include_once(): Failed opening 'vista/vista.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/comunidauto/public_html/forms/notify.php on line 7
+[18-Nov-2021 13:36:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Vista' not found in /home/comunidauto/public_html/forms/notify.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/comunidauto/public_html/forms/notify.php on line 8
+[18-Nov-2021 13:36:11 UTC] PHP Warning:  include_once(vista/vista.php): failed to open stream: No such file or directory in /home/comunidauto/public_html/forms/notify.php on line 7
+[18-Nov-2021 13:36:11 UTC] PHP Warning:  include_once(): Failed opening 'vista/vista.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/comunidauto/public_html/forms/notify.php on line 7
+[18-Nov-2021 13:36:11 UTC] PHP Fatal error:  Uncaught Error: Class 'Vista' not found in /home/comunidauto/public_html/forms/notify.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/comunidauto/public_html/forms/notify.php on line 8
+[18-Nov-2021 13:36:12 UTC] PHP Warning:  include_once(vista/vista.php): failed to open stream: No such file or directory in /home/comunidauto/public_html/forms/notify.php on line 7
+[18-Nov-2021 13:36:12 UTC] PHP Warning:  include_once(): Failed opening 'vista/vista.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/comunidauto/public_html/forms/notify.php on line 7
+[18-Nov-2021 13:36:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Vista' not found in /home/comunidauto/public_html/forms/notify.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/comunidauto/public_html/forms/notify.php on line 8
+[18-Nov-2021 13:36:12 UTC] PHP Warning:  include_once(vista/vista.php): failed to open stream: No such file or directory in /home/comunidauto/public_html/forms/notify.php on line 7
+[18-Nov-2021 13:36:12 UTC] PHP Warning:  include_once(): Failed opening 'vista/vista.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/comunidauto/public_html/forms/notify.php on line 7
+[18-Nov-2021 13:36:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Vista' not found in /home/comunidauto/public_html/forms/notify.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/comunidauto/public_html/forms/notify.php on line 8
+[18-Nov-2021 13:36:12 UTC] PHP Warning:  include_once(vista/vista.php): failed to open stream: No such file or directory in /home/comunidauto/public_html/forms/notify.php on line 7
+[18-Nov-2021 13:36:12 UTC] PHP Warning:  include_once(): Failed opening 'vista/vista.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/comunidauto/public_html/forms/notify.php on line 7
+[18-Nov-2021 13:36:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Vista' not found in /home/comunidauto/public_html/forms/notify.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/comunidauto/public_html/forms/notify.php on line 8
+[18-Nov-2021 13:36:12 UTC] PHP Warning:  include_once(vista/vista.php): failed to open stream: No such file or directory in /home/comunidauto/public_html/forms/notify.php on line 7
+[18-Nov-2021 13:36:12 UTC] PHP Warning:  include_once(): Failed opening 'vista/vista.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/comunidauto/public_html/forms/notify.php on line 7
+[18-Nov-2021 13:36:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Vista' not found in /home/comunidauto/public_html/forms/notify.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/comunidauto/public_html/forms/notify.php on line 8
+[18-Nov-2021 13:36:12 UTC] PHP Warning:  include_once(vista/vista.php): failed to open stream: No such file or directory in /home/comunidauto/public_html/forms/notify.php on line 7
+[18-Nov-2021 13:36:12 UTC] PHP Warning:  include_once(): Failed opening 'vista/vista.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/comunidauto/public_html/forms/notify.php on line 7
+[18-Nov-2021 13:36:12 UTC] PHP Fatal error:  Uncaught Error: Class 'Vista' not found in /home/comunidauto/public_html/forms/notify.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/comunidauto/public_html/forms/notify.php on line 8
+[18-Nov-2021 13:40:42 UTC] PHP Warning:  include_once(vista/vista.php): failed to open stream: No such file or directory in /home/comunidauto/public_html/forms/notify.php on line 7
+[18-Nov-2021 13:40:42 UTC] PHP Warning:  include_once(): Failed opening 'vista/vista.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/comunidauto/public_html/forms/notify.php on line 7
+[18-Nov-2021 13:40:42 UTC] PHP Fatal error:  Uncaught Error: Class 'Vista' not found in /home/comunidauto/public_html/forms/notify.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/comunidauto/public_html/forms/notify.php on line 8
+[18-Nov-2021 13:40:43 UTC] PHP Warning:  include_once(vista/vista.php): failed to open stream: No such file or directory in /home/comunidauto/public_html/forms/notify.php on line 7
+[18-Nov-2021 13:40:43 UTC] PHP Warning:  include_once(): Failed opening 'vista/vista.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/comunidauto/public_html/forms/notify.php on line 7
+[18-Nov-2021 13:40:43 UTC] PHP Fatal error:  Uncaught Error: Class 'Vista' not found in /home/comunidauto/public_html/forms/notify.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/comunidauto/public_html/forms/notify.php on line 8
+[18-Nov-2021 13:41:30 UTC] PHP Warning:  include_once(vista/vista.php): failed to open stream: No such file or directory in /home/comunidauto/public_html/forms/notify.php on line 7
+[18-Nov-2021 13:41:30 UTC] PHP Warning:  include_once(): Failed opening 'vista/vista.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/comunidauto/public_html/forms/notify.php on line 7
+[18-Nov-2021 13:41:30 UTC] PHP Fatal error:  Uncaught Error: Class 'Vista' not found in /home/comunidauto/public_html/forms/notify.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/comunidauto/public_html/forms/notify.php on line 8
+[18-Nov-2021 13:43:07 UTC] PHP Warning:  include_once(vista/vista.php): failed to open stream: No such file or directory in /home/comunidauto/public_html/forms/notify.php on line 7
+[18-Nov-2021 13:43:07 UTC] PHP Warning:  include_once(): Failed opening 'vista/vista.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/comunidauto/public_html/forms/notify.php on line 7
+[18-Nov-2021 13:43:07 UTC] PHP Fatal error:  Uncaught Error: Class 'Vista' not found in /home/comunidauto/public_html/forms/notify.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/comunidauto/public_html/forms/notify.php on line 8
+[18-Nov-2021 14:27:00 UTC] PHP Warning:  include_once(vista/vista.php): failed to open stream: No such file or directory in /home/comunidauto/public_html/forms/notify.php on line 7
+[18-Nov-2021 14:27:00 UTC] PHP Warning:  include_once(): Failed opening 'vista/vista.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/comunidauto/public_html/forms/notify.php on line 7
+[18-Nov-2021 14:27:00 UTC] PHP Fatal error:  Uncaught Error: Class 'Vista' not found in /home/comunidauto/public_html/forms/notify.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/comunidauto/public_html/forms/notify.php on line 8
+[18-Nov-2021 14:27:02 UTC] PHP Warning:  include_once(vista/vista.php): failed to open stream: No such file or directory in /home/comunidauto/public_html/forms/notify.php on line 7
+[18-Nov-2021 14:27:02 UTC] PHP Warning:  include_once(): Failed opening 'vista/vista.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/comunidauto/public_html/forms/notify.php on line 7
+[18-Nov-2021 14:27:02 UTC] PHP Fatal error:  Uncaught Error: Class 'Vista' not found in /home/comunidauto/public_html/forms/notify.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/comunidauto/public_html/forms/notify.php on line 8
+[18-Nov-2021 14:27:08 UTC] PHP Warning:  include_once(vista/vista.php): failed to open stream: No such file or directory in /home/comunidauto/public_html/forms/notify.php on line 7
+[18-Nov-2021 14:27:08 UTC] PHP Warning:  include_once(): Failed opening 'vista/vista.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/comunidauto/public_html/forms/notify.php on line 7
+[18-Nov-2021 14:27:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Vista' not found in /home/comunidauto/public_html/forms/notify.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/comunidauto/public_html/forms/notify.php on line 8
+[18-Nov-2021 14:27:08 UTC] PHP Warning:  include_once(vista/vista.php): failed to open stream: No such file or directory in /home/comunidauto/public_html/forms/notify.php on line 7
+[18-Nov-2021 14:27:08 UTC] PHP Warning:  include_once(): Failed opening 'vista/vista.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/comunidauto/public_html/forms/notify.php on line 7
+[18-Nov-2021 14:27:08 UTC] PHP Fatal error:  Uncaught Error: Class 'Vista' not found in /home/comunidauto/public_html/forms/notify.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/comunidauto/public_html/forms/notify.php on line 8
+[18-Nov-2021 14:27:09 UTC] PHP Warning:  include_once(vista/vista.php): failed to open stream: No such file or directory in /home/comunidauto/public_html/forms/notify.php on line 7
+[18-Nov-2021 14:27:09 UTC] PHP Warning:  include_once(): Failed opening 'vista/vista.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/comunidauto/public_html/forms/notify.php on line 7
+[18-Nov-2021 14:27:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Vista' not found in /home/comunidauto/public_html/forms/notify.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/comunidauto/public_html/forms/notify.php on line 8
+[18-Nov-2021 14:27:09 UTC] PHP Warning:  include_once(vista/vista.php): failed to open stream: No such file or directory in /home/comunidauto/public_html/forms/notify.php on line 7
+[18-Nov-2021 14:27:09 UTC] PHP Warning:  include_once(): Failed opening 'vista/vista.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/comunidauto/public_html/forms/notify.php on line 7
+[18-Nov-2021 14:27:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Vista' not found in /home/comunidauto/public_html/forms/notify.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/comunidauto/public_html/forms/notify.php on line 8
+[18-Nov-2021 14:27:09 UTC] PHP Warning:  include_once(vista/vista.php): failed to open stream: No such file or directory in /home/comunidauto/public_html/forms/notify.php on line 7
+[18-Nov-2021 14:27:09 UTC] PHP Warning:  include_once(): Failed opening 'vista/vista.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/comunidauto/public_html/forms/notify.php on line 7
+[18-Nov-2021 14:27:09 UTC] PHP Fatal error:  Uncaught Error: Class 'Vista' not found in /home/comunidauto/public_html/forms/notify.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/comunidauto/public_html/forms/notify.php on line 8
+[18-Nov-2021 14:27:17 UTC] PHP Warning:  include_once(vista/vista.php): failed to open stream: No such file or directory in /home/comunidauto/public_html/forms/notify.php on line 7
+[18-Nov-2021 14:27:17 UTC] PHP Warning:  include_once(): Failed opening 'vista/vista.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/comunidauto/public_html/forms/notify.php on line 7
+[18-Nov-2021 14:27:17 UTC] PHP Fatal error:  Uncaught Error: Class 'Vista' not found in /home/comunidauto/public_html/forms/notify.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/comunidauto/public_html/forms/notify.php on line 8
+[18-Nov-2021 14:27:18 UTC] PHP Warning:  include_once(vista/vista.php): failed to open stream: No such file or directory in /home/comunidauto/public_html/forms/notify.php on line 7
+[18-Nov-2021 14:27:18 UTC] PHP Warning:  include_once(): Failed opening 'vista/vista.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/comunidauto/public_html/forms/notify.php on line 7
+[18-Nov-2021 14:27:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Vista' not found in /home/comunidauto/public_html/forms/notify.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/comunidauto/public_html/forms/notify.php on line 8
+[18-Nov-2021 14:27:18 UTC] PHP Warning:  include_once(vista/vista.php): failed to open stream: No such file or directory in /home/comunidauto/public_html/forms/notify.php on line 7
+[18-Nov-2021 14:27:18 UTC] PHP Warning:  include_once(): Failed opening 'vista/vista.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/comunidauto/public_html/forms/notify.php on line 7
+[18-Nov-2021 14:27:18 UTC] PHP Fatal error:  Uncaught Error: Class 'Vista' not found in /home/comunidauto/public_html/forms/notify.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/comunidauto/public_html/forms/notify.php on line 8
+[18-Nov-2021 14:27:19 UTC] PHP Warning:  include_once(vista/vista.php): failed to open stream: No such file or directory in /home/comunidauto/public_html/forms/notify.php on line 7
+[18-Nov-2021 14:27:19 UTC] PHP Warning:  include_once(): Failed opening 'vista/vista.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/comunidauto/public_html/forms/notify.php on line 7
+[18-Nov-2021 14:27:19 UTC] PHP Fatal error:  Uncaught Error: Class 'Vista' not found in /home/comunidauto/public_html/forms/notify.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/comunidauto/public_html/forms/notify.php on line 8
+[18-Nov-2021 14:27:23 UTC] PHP Warning:  include_once(vista/vista.php): failed to open stream: No such file or directory in /home/comunidauto/public_html/forms/notify.php on line 7
+[18-Nov-2021 14:27:23 UTC] PHP Warning:  include_once(): Failed opening 'vista/vista.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/comunidauto/public_html/forms/notify.php on line 7
+[18-Nov-2021 14:27:23 UTC] PHP Fatal error:  Uncaught Error: Class 'Vista' not found in /home/comunidauto/public_html/forms/notify.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/comunidauto/public_html/forms/notify.php on line 8
+[18-Nov-2021 14:27:32 UTC] PHP Warning:  include_once(vista/vista.php): failed to open stream: No such file or directory in /home/comunidauto/public_html/forms/notify.php on line 7
+[18-Nov-2021 14:27:32 UTC] PHP Warning:  include_once(): Failed opening 'vista/vista.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/comunidauto/public_html/forms/notify.php on line 7
+[18-Nov-2021 14:27:32 UTC] PHP Fatal error:  Uncaught Error: Class 'Vista' not found in /home/comunidauto/public_html/forms/notify.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/comunidauto/public_html/forms/notify.php on line 8
+[18-Nov-2021 14:27:40 UTC] PHP Warning:  include_once(vista/vista.php): failed to open stream: No such file or directory in /home/comunidauto/public_html/forms/notify.php on line 7
+[18-Nov-2021 14:27:40 UTC] PHP Warning:  include_once(): Failed opening 'vista/vista.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/comunidauto/public_html/forms/notify.php on line 7
+[18-Nov-2021 14:27:40 UTC] PHP Fatal error:  Uncaught Error: Class 'Vista' not found in /home/comunidauto/public_html/forms/notify.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/comunidauto/public_html/forms/notify.php on line 8
+[18-Apr-2022 15:50:00 America/Buenos_Aires] PHP Parse error:  syntax error, unexpected end of file in /home/comunidauto/public_html/vista/vista.php on line 2046
