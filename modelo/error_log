@@ -1,0 +1,64 @@
+[23-Feb-2022 12:14:46 America/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comunidauto/public_html/modelo/uploadModerParticular.php:12) in /home/comunidauto/public_html/modelo/uploadModerParticular.php on line 14
+[23-Feb-2022 12:18:42 America/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comunidauto/public_html/modelo/uploadModerParticular.php:7) in /home/comunidauto/public_html/modelo/uploadModerParticular.php on line 8
+[23-Feb-2022 12:20:52 America/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comunidauto/public_html/modelo/uploadModerParticular.php:12) in /home/comunidauto/public_html/modelo/uploadModerParticular.php on line 14
+[23-Feb-2022 12:21:23 America/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comunidauto/public_html/modelo/uploadModerParticular.php:12) in /home/comunidauto/public_html/modelo/uploadModerParticular.php on line 14
+[23-Feb-2022 12:21:29 America/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comunidauto/public_html/modelo/uploadModerParticular.php:12) in /home/comunidauto/public_html/modelo/uploadModerParticular.php on line 14
+[23-Feb-2022 12:22:21 America/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comunidauto/public_html/modelo/uploadModerParticular.php:12) in /home/comunidauto/public_html/modelo/uploadModerParticular.php on line 14
+[23-Feb-2022 12:22:23 America/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comunidauto/public_html/modelo/uploadModerParticular.php:12) in /home/comunidauto/public_html/modelo/uploadModerParticular.php on line 14
+[23-Feb-2022 12:22:26 America/Buenos_Aires] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/comunidauto/public_html/modelo/uploadModerParticular.php:12) in /home/comunidauto/public_html/modelo/uploadModerParticular.php on line 14
+[03-Mar-2022 19:29:42 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/comunidauto/public_html/modelo/selectimgDetalleParticulares.php on line 11
+[03-Mar-2022 19:29:52 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/comunidauto/public_html/modelo/selectimgDetalleParticulares.php on line 11
+[03-Mar-2022 19:33:03 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/comunidauto/public_html/modelo/selectimgDetalleParticulares.php on line 11
+[03-Mar-2022 19:33:26 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/comunidauto/public_html/modelo/selectimgDetalleParticulares.php on line 11
+[03-Mar-2022 19:39:50 UTC] PHP Parse error:  syntax error, unexpected '.', expecting end of file in /home/comunidauto/public_html/modelo/selectimgDetalleParticulares.php on line 8
+[03-Mar-2022 19:40:02 UTC] PHP Parse error:  syntax error, unexpected '.', expecting end of file in /home/comunidauto/public_html/modelo/selectimgDetalleParticulares.php on line 8
+[07-May-2022 10:12:28 America/Buenos_Aires] PHP Notice:  Trying to get property 'agencia_tipo' of non-object in /home/comunidauto/public_html/modelo/insertUnidadUsada.php on line 20
+[07-May-2022 10:12:28 America/Buenos_Aires] PHP Notice:  Trying to get property 'fecha' of non-object in /home/comunidauto/public_html/modelo/insertUnidadUsada.php on line 43
+[07-May-2022 10:12:28 America/Buenos_Aires] PHP Notice:  Trying to get property 'id_modelo' of non-object in /home/comunidauto/public_html/modelo/insertUnidadUsada.php on line 44
+[07-May-2022 10:12:28 America/Buenos_Aires] PHP Notice:  Trying to get property 'id_agencia' of non-object in /home/comunidauto/public_html/modelo/insertUnidadUsada.php on line 45
+[07-May-2022 10:12:28 America/Buenos_Aires] PHP Notice:  Trying to get property 'version' of non-object in /home/comunidauto/public_html/modelo/insertUnidadUsada.php on line 46
+[07-May-2022 10:12:28 America/Buenos_Aires] PHP Notice:  Trying to get property 'color' of non-object in /home/comunidauto/public_html/modelo/insertUnidadUsada.php on line 47
+[07-May-2022 10:12:28 America/Buenos_Aires] PHP Notice:  Trying to get property 'moneda' of non-object in /home/comunidauto/public_html/modelo/insertUnidadUsada.php on line 48
+[07-May-2022 10:12:28 America/Buenos_Aires] PHP Notice:  Trying to get property 'precio' of non-object in /home/comunidauto/public_html/modelo/insertUnidadUsada.php on line 49
+[07-May-2022 10:12:28 America/Buenos_Aires] PHP Notice:  Trying to get property 'gastos' of non-object in /home/comunidauto/public_html/modelo/insertUnidadUsada.php on line 50
+[07-May-2022 10:12:28 America/Buenos_Aires] PHP Notice:  Trying to get property 'disponibilidad' of non-object in /home/comunidauto/public_html/modelo/insertUnidadUsada.php on line 51
+[07-May-2022 10:12:28 America/Buenos_Aires] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Modelo::insertPrecioLista(), 9 passed in /home/comunidauto/public_html/modelo/insertUnidadUsada.php on line 55 and at least 11 expected in /home/comunidauto/public_html/modelo/modelo.php:1360
+Stack trace:
+#0 /home/comunidauto/public_html/modelo/insertUnidadUsada.php(55): Modelo->insertPrecioLista(NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL)
+#1 {main}
+  thrown in /home/comunidauto/public_html/modelo/modelo.php on line 1360
+[07-May-2022 10:12:50 America/Buenos_Aires] PHP Notice:  Trying to get property 'agencia_tipo' of non-object in /home/comunidauto/public_html/modelo/insertUnidadUsada.php on line 20
+[07-May-2022 10:12:50 America/Buenos_Aires] PHP Notice:  Trying to get property 'fecha' of non-object in /home/comunidauto/public_html/modelo/insertUnidadUsada.php on line 43
+[07-May-2022 10:12:50 America/Buenos_Aires] PHP Notice:  Trying to get property 'id_modelo' of non-object in /home/comunidauto/public_html/modelo/insertUnidadUsada.php on line 44
+[07-May-2022 10:12:50 America/Buenos_Aires] PHP Notice:  Trying to get property 'id_agencia' of non-object in /home/comunidauto/public_html/modelo/insertUnidadUsada.php on line 45
+[07-May-2022 10:12:50 America/Buenos_Aires] PHP Notice:  Trying to get property 'version' of non-object in /home/comunidauto/public_html/modelo/insertUnidadUsada.php on line 46
+[07-May-2022 10:12:50 America/Buenos_Aires] PHP Notice:  Trying to get property 'color' of non-object in /home/comunidauto/public_html/modelo/insertUnidadUsada.php on line 47
+[07-May-2022 10:12:50 America/Buenos_Aires] PHP Notice:  Trying to get property 'moneda' of non-object in /home/comunidauto/public_html/modelo/insertUnidadUsada.php on line 48
+[07-May-2022 10:12:50 America/Buenos_Aires] PHP Notice:  Trying to get property 'precio' of non-object in /home/comunidauto/public_html/modelo/insertUnidadUsada.php on line 49
+[07-May-2022 10:12:50 America/Buenos_Aires] PHP Notice:  Trying to get property 'gastos' of non-object in /home/comunidauto/public_html/modelo/insertUnidadUsada.php on line 50
+[07-May-2022 10:12:50 America/Buenos_Aires] PHP Notice:  Trying to get property 'disponibilidad' of non-object in /home/comunidauto/public_html/modelo/insertUnidadUsada.php on line 51
+[07-May-2022 10:12:50 America/Buenos_Aires] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Modelo::insertPrecioLista(), 9 passed in /home/comunidauto/public_html/modelo/insertUnidadUsada.php on line 55 and at least 11 expected in /home/comunidauto/public_html/modelo/modelo.php:1360
+Stack trace:
+#0 /home/comunidauto/public_html/modelo/insertUnidadUsada.php(55): Modelo->insertPrecioLista(NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL)
+#1 {main}
+  thrown in /home/comunidauto/public_html/modelo/modelo.php on line 1360
+[07-May-2022 10:13:00 America/Buenos_Aires] PHP Notice:  Trying to get property 'agencia_tipo' of non-object in /home/comunidauto/public_html/modelo/insertUnidadUsada.php on line 20
+[07-May-2022 10:13:00 America/Buenos_Aires] PHP Notice:  Trying to get property 'fecha' of non-object in /home/comunidauto/public_html/modelo/insertUnidadUsada.php on line 43
+[07-May-2022 10:13:00 America/Buenos_Aires] PHP Notice:  Trying to get property 'id_modelo' of non-object in /home/comunidauto/public_html/modelo/insertUnidadUsada.php on line 44
+[07-May-2022 10:13:00 America/Buenos_Aires] PHP Notice:  Trying to get property 'id_agencia' of non-object in /home/comunidauto/public_html/modelo/insertUnidadUsada.php on line 45
+[07-May-2022 10:13:00 America/Buenos_Aires] PHP Notice:  Trying to get property 'version' of non-object in /home/comunidauto/public_html/modelo/insertUnidadUsada.php on line 46
+[07-May-2022 10:13:00 America/Buenos_Aires] PHP Notice:  Trying to get property 'color' of non-object in /home/comunidauto/public_html/modelo/insertUnidadUsada.php on line 47
+[07-May-2022 10:13:00 America/Buenos_Aires] PHP Notice:  Trying to get property 'moneda' of non-object in /home/comunidauto/public_html/modelo/insertUnidadUsada.php on line 48
+[07-May-2022 10:13:00 America/Buenos_Aires] PHP Notice:  Trying to get property 'precio' of non-object in /home/comunidauto/public_html/modelo/insertUnidadUsada.php on line 49
+[07-May-2022 10:13:00 America/Buenos_Aires] PHP Notice:  Trying to get property 'gastos' of non-object in /home/comunidauto/public_html/modelo/insertUnidadUsada.php on line 50
+[07-May-2022 10:13:00 America/Buenos_Aires] PHP Notice:  Trying to get property 'disponibilidad' of non-object in /home/comunidauto/public_html/modelo/insertUnidadUsada.php on line 51
+[07-May-2022 10:13:00 America/Buenos_Aires] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Modelo::insertPrecioLista(), 9 passed in /home/comunidauto/public_html/modelo/insertUnidadUsada.php on line 55 and at least 11 expected in /home/comunidauto/public_html/modelo/modelo.php:1360
+Stack trace:
+#0 /home/comunidauto/public_html/modelo/insertUnidadUsada.php(55): Modelo->insertPrecioLista(NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL)
+#1 {main}
+  thrown in /home/comunidauto/public_html/modelo/modelo.php on line 1360
+[10-May-2022 19:52:15 UTC] PHP Notice:  Undefined index: nombre in /home/comunidauto/public_html/modelo/recuperar_cuenta_mail.php on line 8
+[10-May-2022 19:52:15 UTC] PHP Notice:  Undefined index: apellido in /home/comunidauto/public_html/modelo/recuperar_cuenta_mail.php on line 9
+[10-May-2022 19:52:15 UTC] PHP Notice:  Undefined index: email in /home/comunidauto/public_html/modelo/recuperar_cuenta_mail.php on line 10
+[10-May-2022 19:52:15 UTC] PHP Notice:  Undefined index: telefono in /home/comunidauto/public_html/modelo/recuperar_cuenta_mail.php on line 11
+[10-May-2022 19:52:15 UTC] PHP Notice:  Undefined index: cuit in /home/comunidauto/public_html/modelo/recuperar_cuenta_mail.php on line 12
